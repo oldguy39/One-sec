@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">One Second Off</string>
+    <string name="service_desc">Turns the screen off about one second after you lay the phone down flat. Uses the motion sensor only while the screen is on.</string>
+</resources>
